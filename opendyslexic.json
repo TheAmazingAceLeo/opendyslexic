@@ -1,0 +1,20 @@
+{
+    "spec": 1,
+    "name": "OpenDyslexic",
+    "previewText": "The Quick Brown Delphox Jumped Over The Lazy Dragalge",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold.otf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold-Italic.otf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold.otf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold-Italic.otf?raw=1",
+        "ggsans-Normal": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Regular.otf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Italic.otf?raw=1",
+        "NotoSans-Bold": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-SemiBold.ttf?raw=1"
+    }
+}
