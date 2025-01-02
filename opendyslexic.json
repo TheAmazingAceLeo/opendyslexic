@@ -3,7 +3,7 @@
     "name": "OpenDyslexic",
     "previewText": "The Quick Brown Delphox Jumped Over The Lazy Dragalge",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://github.com/Dwaggo/MulishBunnyFont/blob/main/Mulish-ExtraBold.ttf?raw=1",
+        "ggsans": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Regular.otf",
         "ggsans-Bold": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold.otf?raw=1",
         "ggsans-BoldItalic": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold-Italic.otf?raw=1",
         "ggsans-ExtraBold": "https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold.otf?raw=1",
